@@ -1,0 +1,1 @@
+Int is a secure international real estate platform that connects property buyers and sellers across different countries, handles multi-currency transactions, and manages property listings and documentation while ensuring safe banking operations through a user-friendly API.
